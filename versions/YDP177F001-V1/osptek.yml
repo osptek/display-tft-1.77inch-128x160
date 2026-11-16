@@ -1,0 +1,10 @@
+id: YDP177F001-V1
+category: displays
+size: "1.77"
+panel: tft
+resolution: 128x160
+interface: [spi]
+driver: ST7735S
+touch: null
+outline: 34.7 x 46.7 x 2.3 mm
+active_area: 28.03 x 35.04 mm
